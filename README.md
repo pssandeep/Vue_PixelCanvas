@@ -1,4 +1,4 @@
-# example
+# Vue - Pixel Canvas
 
 ## Project setup
 ```
